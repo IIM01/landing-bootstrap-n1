@@ -4274,6 +4274,10 @@ fieldset:disabled .btn {
   padding: 0 0 1.875rem;
 }
 
+.container {
+  overflow: hidden;
+}
+
 .ibg {
   background-size: cover;
   background-repeat: no-repeat;
